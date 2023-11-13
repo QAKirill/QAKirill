@@ -1,4 +1,4 @@
-###  Hi there! My name is Kirill 
+### 👋 Hi there! My name is Kirill
 
 I'm Java QA automation
 
@@ -9,7 +9,7 @@ I'm Java QA automation
   <a href="mailto:ghostman784@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
-### 🛠 &nbsp;Main tools :
+### 🛠 &nbsp;My main tools:
 
 <p  align="center"> 
 
@@ -24,7 +24,6 @@ I'm Java QA automation
 <img width="5%" title="Jenkins" src="https://github.com/QAKirill/TinkoffWebAutotests/blob/master/attach/Logo/Jenkins.svg">
 
 </p>
-and much more :)
 
 ## My projects:
 
