@@ -1,4 +1,4 @@
-###  Hello there! My name is Kirill 
+###  Hi there! My name is Kirill 
 
 I'm Java QA automation
 
