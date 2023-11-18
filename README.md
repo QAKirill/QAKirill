@@ -25,7 +25,7 @@ I'm Java QA automation
 
 </p>
 
-## My projects:
+## My demo projects:
 
 ### UI automation for Nastol.io website using Selenide.
 
