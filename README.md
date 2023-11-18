@@ -27,7 +27,7 @@ I'm Java QA automation
 
 ## My projects:
 
-### UI automation for Tinkoff website using Selenide.
+### UI automation for Nastol.io website using Selenide.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qakirill&repo=Nastol.io
 )](https://github.com/QAKirill/Nastol.io)
