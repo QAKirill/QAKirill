@@ -29,8 +29,8 @@ I'm Java QA automation
 
 ### UI automation for Tinkoff website using Selenide.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qakirill&repo=TinkoffWebAutotests
-)](https://github.com/QAKirill/TinkoffWebAutotests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qakirill&repo=Nastol.io
+)](https://github.com/QAKirill/Nastol.io)
 
 ###  API automation for Reqres.in using REST Assured
 
